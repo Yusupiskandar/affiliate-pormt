@@ -1,0 +1,2 @@
+saya pengen membuat sebuah skill untuk membuat promt untuk membuat sebuah video yang akan diperuntukan affiliate.
+saya kasih referensi video, kemudia AI membuat promt untuk membuat video seperti itu dengan hasil real.
